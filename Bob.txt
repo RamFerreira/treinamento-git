@@ -1,1 +1,2 @@
 Adicionando uma alteração de arquivo.
+Testando o conflito.
